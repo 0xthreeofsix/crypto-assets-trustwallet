@@ -1,0 +1,36 @@
+{
+    "name": "Pulsechain",
+    "website": "https://pulsechain.com/",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://scan.pulsechain.com",
+    "research": "https://pulsechain.com",
+    "symbol": "PLS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://gitlab.com/pulsechaincom"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pulsechaincom"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Pulsechain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseChainCom"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://gitlab.com/pulsechaincom/pulsechain-mainnetr"
+        }
+    ]
+}
